@@ -1,0 +1,4 @@
+
+first file in feature1 branch
+
+one more changes in feature1.txt
